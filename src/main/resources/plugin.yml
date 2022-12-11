@@ -1,0 +1,5 @@
+name: FissionCore
+version: beta-0.0
+api-version: 1.19
+author: FusionFish
+main: cn.fusionfish.core.FissionCore
